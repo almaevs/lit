@@ -1,0 +1,19 @@
+{
+  "name": "lit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "lit-element": "^3.2.2"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.1.32"
+  },
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
